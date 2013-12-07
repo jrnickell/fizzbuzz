@@ -5,4 +5,4 @@ fizzbuzz
 
 Run the tests with PHPUnit
 
-  phpunit FizzBuzz.php
+    phpunit FizzBuzz.php
